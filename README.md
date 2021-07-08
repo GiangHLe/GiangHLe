@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 🔭 I’m currently working in [37° 31' 57.3600'' N, 127° 1' 28.6032'' E].
+
 ✨ Some information about my Github account:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiangHLe&count_private=true&theme=tokyonight&showicons=true)]()
