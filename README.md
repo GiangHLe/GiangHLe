@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+### Hi there 👋
+
+🔭 I’m currently working in [37° 31' 57.3600'' N, 127° 1' 28.6032'' E].
+✨ Some information about my Github account:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiangHLe&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiangHLe&langs_count=5&theme=tokyonight)]()
