@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiangHLe&langs_count=5&theme=tokyonight)]()
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/languages.svg)
+
+![Snake animation](https://github.com/GiangHLe/GiangHLe/blob/output/github-contribution-grid-snake.svg)
