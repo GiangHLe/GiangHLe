@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 --> 
 ### Hi there 👋
 
-🔭 I’m currently working in [37° 31' 57.3600'' N, 127° 1' 28.6032'' E].
+- 🔭 I’m currently working in [37° 31' 57.3600'' N, 127° 1' 28.6032'' E].
+
+- 🌱 I’m currently learning Algorithm.
+
+- 👯 I’m looking to collaborate on ML competition. ([Kaggle](https://www.kaggle.com/), [DACON](https://dacon.io/), [DrivenData](https://www.drivendata.org/)).
 
 ✨ Some information about my Github:
 
