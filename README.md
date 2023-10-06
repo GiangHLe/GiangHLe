@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/languages.svg)
 
+<!-- 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/GiangHLe/GiangHLe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GiangHLe/GiangHLe/blob/output/github-contribution-grid-snake.svg) 
+-->
