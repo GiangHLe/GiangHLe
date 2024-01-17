@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/giangle97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/10732351/cucarot"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="LinkedIn"></a>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiangHLe&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiangHLe&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-com-giang-hl-e-github-readme-stats.vercel.app/api/?username=GiangHLe&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-com-giang-hl-e-github-readme-stats.vercel.app/api/top-langs/?username=GiangHLe&langs_count=5&theme=tokyonight)]()
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/GiangHLe/github-stats/blob/master/generated/languages.svg)
 
