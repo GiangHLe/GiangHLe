@@ -2,6 +2,8 @@
 
 I'm an AI researcher who is interested in computer vision, natural language processing, and generative models. 
 
+You can find more about me on my [Stack Overflow](https://stackoverflow.com/users/10732351/cucarot), [DACON account](https://dacon.io/myprofile/413619/home), and [LinkedIn](https://www.linkedin.com/in/giangle97/).
+
 Some things I wanna share:
 
 * I earned a Master's degree from the Seoul National University of Science and Technology (SNUT). Yes, I know, it's not SNU, it's SNU-T.
