@@ -18,6 +18,8 @@ Some things I wanna share:
 
 * Currently, I'm diving into NLP to gain a better understanding and to participate in some competitions on Kaggle. Additionally, I believe that multi-modal learning is the future of machine learning, although it might not be prevalent in this era. I think models that focus on specific tasks are currently more valuable in the market.
 
+**Note**: Since I noticed a lack of standard packages for GANs evaluation metrics such as IS, FID, Precision, and Recall, I implemented one myself. You can check the details at [this pip link](https://pypi.org/project/gans-eval/). Feel free to use it or raise any issues if you find any mistakes in my implementation.
+
 ### Achievements
 
 I love joining competitions and reading solutions to learn how to handle machine learning models with real-world data. Since I don't have enough resources to deal with big data, platforms like [DACON](https://dacon.io/) are more suitable for me at this time. Here are some of my achievements:
