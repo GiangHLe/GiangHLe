@@ -30,7 +30,5 @@ I love joining competitions and reading solutions to learn how to handle machine
 
 * [The 2nd KRX Stock Investment Algorithm Competition](https://dacon.io/competitions/official/236117/overview/description), hosted by Korea Exchange (KRX), sponsored by Koscom, and organized by DACON, I participated solo. I reached 41st place out of 400 teams, placing me in the top 10%. The task involved using capital market data and public data to create a stock investment algorithm capable of expecting high stability and returns.
 
-* [Handling questions and answers about wallpaper defects: Hansol Deco Season 2 AI Contest](https://dacon.io/competitions/official/236216/overview/description), hosted by Hansol Deco (한솔데코), organized by DACON. I participated solo, I reached 18 / 557 teams (top 3%). The task is to developing an AI model with in-depth question-and-answer processing capabilities related to wallpaper.
-
 * [Handling questions and answers about wallpaper defects: Hansol Deco Season 2 AI Contest](https://dacon.io/competitions/official/236216/overview/description), hosted by Hansol Deco (한솔데코) and organized by DACON, I participated solo. I reached 18th place out of 557 teams, placing me in the top 3%. The task involved developing an AI model with in-depth question-and-answer processing capabilities related to wallpaper.
 
